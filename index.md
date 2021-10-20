@@ -1,4 +1,4 @@
-## My Quick Static Site
+## Meranda's Digital History Journey
 
 This is a site I build with gh-pages. **Wow**
 
