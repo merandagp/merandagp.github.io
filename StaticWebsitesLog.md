@@ -9,8 +9,6 @@ To do so
 5. Themes can be chosen in the step just underneath that, I liked Cayman the best 
 6. Then the website publishes [here](https://merandagp.github.io/) RAD!
 
-![Screenshot of My Quick Static Site](MyQuickStaticSite.png)
-
 I also explored some of the example sites that github shares on this [page](https://github.com/collections/github-pages-examples) and found [this](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages) page to be helpful for understanding how pages works. I also have a feeling this [course](https://lab.github.com/githubtraining/github-pages) by github could be helpful
 
 ## Next Steps 
